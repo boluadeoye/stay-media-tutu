@@ -2,37 +2,38 @@
   "hero": {
     "title": "The Most Delicious Cocktails In A Can",
     "subtitle": "Experience the art of mixology, perfectly balanced and ready to pour. Crafted for those who appreciate the finer things.",
-    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=2000&auto=format&fit=crop",
+    "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775660720/blog_assets/ixsmp4qeohvpgotitrws.png",
     "cta": "GET IN TOUCH"
   },
-  "services": [
-    { "id": 1, "title": "Event Supply", "image": "https://images.unsplash.com/photo-1600335895229-6e75511892c8?q=80&w=800&auto=format&fit=crop" },
-    { "id": 2, "title": "Event Supply", "image": "https://images.unsplash.com/photo-1600335895229-6e75511892c8?q=80&w=800&auto=format&fit=crop" },
-    { "id": 3, "title": "Event Supply", "image": "https://images.unsplash.com/photo-1600335895229-6e75511892c8?q=80&w=800&auto=format&fit=crop" }
+  "services":[
+    { "id": 1, "title": "Event Supply", "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775660760/blog_assets/qr0jsqv1yeehazmfshpd.png" },
+    { "id": 2, "title": "Event Supply", "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775660760/blog_assets/qr0jsqv1yeehazmfshpd.png" },
+    { "id": 3, "title": "Event Supply", "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775660760/blog_assets/qr0jsqv1yeehazmfshpd.png" }
   ],
   "testimonial": {
     "name": "Edward Steen",
     "role": "CEO",
-    "quote": "Facere aliquam itaque quia recusandae, corporis fugit fugiat eaque, accusamus officiis reprehenderit. Velit id facilis odit aliquid laudantium. Tempore, sequi. Harum nesciunt, magni aperiam est?"
+    "quote": "Facere aliquam itaque quia recusandae, corporis fugit fugiat eaque, accusamus officiis reprehenderit. Velit id facilis odit aliquid laudantium. Tempore, sequi. Harum nesciunt, magni aperiam est?",
+    "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775661711/blog_assets/ayizy6gzdvkvj4ska61d.png"
   },
-  "posts": [
+  "posts":[
     {
       "id": 201,
       "date": "2025-03-11T12:00:00",
-      "title": "How to Get Glowing Skin and Anti-Aging Skin Care for Face",
-      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=800&auto=format&fit=crop"
+      "title": "How to Get Glowing Skin and Anti-Aging Skin Care for face",
+      "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775661711/blog_assets/ayizy6gzdvkvj4ska61d.png"
     },
     {
       "id": 202,
-      "date": "2025-03-12T12:00:00",
-      "title": "How to Get Glowing Skin and Anti-Aging Skin Care for Face",
-      "image": "https://images.unsplash.com/photo-1576444356170-66073046b1bc?q=80&w=800&auto=format&fit=crop"
+      "date": "2025-03-11T12:00:00",
+      "title": "How to Get Glowing Skin and Anti-Aging Skin Care for face",
+      "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775661739/blog_assets/nvfkqhaer7yzxuxufhd3.png"
     },
     {
       "id": 203,
-      "date": "2025-03-13T12:00:00",
-      "title": "How to Get Glowing Skin and Anti-Aging Skin Care for Face",
-      "image": "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?q=80&w=800&auto=format&fit=crop"
+      "date": "2025-03-11T12:00:00",
+      "title": "How to Get Glowing Skin and Anti-Aging Skin Care for face",
+      "image": "https://res.cloudinary.com/dwbjb3svx/image/upload/v1775661773/blog_assets/rkm913attviwkylqeo5v.jpg"
     }
   ]
 }

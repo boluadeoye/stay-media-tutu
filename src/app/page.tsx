@@ -25,13 +25,13 @@ export default async function LandingPage() {
     _embedded: { 'wp:featuredmedia': [{ source_url: s.image }] }
   }));
 
-  // Map Testimonials Data
-  const testimonialsData = [{
+  // Map Testimonials Data (Now using the Cloudinary Avatar)
+  const testimonialsData =[{
     id: 1,
     title: { rendered: data.testimonial.name },
     content: { rendered: data.testimonial.quote },
     acf: { role: data.testimonial.role },
-    _embedded: { 'wp:featuredmedia': [{ source_url: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200" }] }
+    _embedded: { 'wp:featuredmedia': [{ source_url: data.testimonial.image }] }
   }];
 
   // Map Blog Posts Data
